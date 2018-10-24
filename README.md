@@ -2,6 +2,17 @@
 
 Learn how Pandas works in Python (3) in Jupyter Notebook with additionally some Matplotlib examples.
 
+---
+**Simple setup instructions**:
+
+1. Install [Python 3.\*](https://www.python.org/downloads/) (Latest version is the best option)
+2. Install Pandas, Jupyter Notebooks, Matplotlib: `pip install jupyter pandas matplotlib` (or `pip3` instead of `pip`)
+3. Clone this repository: `git clone https://github.com/AnonymerNiklasistanonym/Pandas-Workshop-Uni-Stuttgart.git`
+4. Start Jupyter Notebook: `jupyter notebook`
+5. Wait until a browser window opens and select then in the directory list the cloned directory and open the `*.ipynb` files that you want to open
+
+---
+
 ## Setup
 
 ### Python 3, Jupyter Notebook
